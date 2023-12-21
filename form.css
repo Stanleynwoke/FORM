@@ -1,0 +1,158 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.BO {
+    width: 50%;
+    padding-left: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+
+}
+
+.NE {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 1.5rem;
+}
+
+.NE input {
+    width: 100%;
+    height: 1.9rem;
+}
+
+::placeholder {
+    padding: 20px;
+}
+
+.NA {
+    padding-top: 6px;
+}
+
+.EMAIL {
+    padding-left: 16px;
+}
+
+.EM {
+    padding-top: 6px;
+}
+
+.AD {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 1.5rem;
+}
+
+.AD input {
+    width: 100%;
+    height: 1.9rem;
+}
+
+.ADD {
+    padding-top: 6px;
+}
+
+.NONE {
+    padding-left: 16px;
+}
+
+.NO {
+    padding-top: 6px;
+}
+
+.CSZ {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-top: 1.5rem;
+}
+
+.CSZ input {
+    width: 100%;
+    height: 1.9rem;
+}
+
+.CITY {
+    padding-right: 16px;
+}
+
+.STATE {
+    padding-right: 16px;
+}
+
+.WHAT {
+    padding-top: 1.5rem;
+}
+
+.UK {
+    padding-top: 15px;
+}
+
+.WHITE {
+    margin-right: 20px;
+}
+
+.MA {
+    margin-right: 20px;
+}
+
+.CO {
+    margin-right: 20px;
+}
+
+.BU {
+    margin-right: 20px;
+}
+
+.W {
+    padding-left: 7px;
+}
+
+.HOW {
+    padding-top: 1.5rem;
+}
+
+.PO {
+    padding-top: 15px;
+}
+
+.OF {
+    margin-right: 20px;
+}
+
+.OFN {
+    padding-left: 7px;
+}
+
+.ST {
+    margin-right: 20px;
+}
+.CO {
+    padding-top: 1.5rem;
+}
+.COO textarea {
+    width: 100%;
+    height: 10rem;
+}
+.COO {
+    padding-top: 5px;
+}
+.DOWN {
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    padding-top: 2rem;
+}
+.BOXXX {
+    display: flex;
+    justify-content: end;
+    
+}
+.BOXX{
+    height: 1.8rem;
+    width: 5rem;
+    background-color: blueviolet;
+    display: grid;
+    place-content: center;
+    color: white;
+    font-size: 10px;
+}
